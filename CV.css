@@ -1,0 +1,67 @@
+body{background-color: #F2EDE4;}
+img{border-top-left-radius: 40px 20px;
+	border-top-right-radius: 40px 20px;
+	border: 5px double #B67A82;
+	width: 160px;
+	height: 180px;
+}
+p{
+  	font-weight:bold;
+  	font-size:1em;
+ 	font-color:#ffffff;
+  	font-family: verdana;
+	line-height: 150%;
+	border: 5px outset #E0CAB9;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 35px;
+	background-color: #E0CAB9;
+	color:#00BFFF;
+	border-top-left-radius: 20px 5px;
+	border-top-right-radius: 20px 5px;
+	border-bottom-left-radius: 20px 5px;
+	border-bottom-right-radius: 20px 5px;
+}
+h3{margin-left: 15px;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: lighter;
+	font-variant: small-caps;
+	color:#00BFFF;
+	border-bottom: 2px solid #B67A82}
+li{	 font-style:italic;
+  	font-weight:bold;
+  	font-size:1.5em;
+ 	font-color:#ffffff;
+  	font-family: verdana;
+	line-height: 200%;
+ }
+h1{color: #69D7B0;
+	font-size: 150%;
+	border-bottom: 2px solid #F1E2CF}
+h2{	
+	margin-left: 15px;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: lighter;
+	font-variant: small-caps;
+	color:#00BFFF;
+	border-bottom: 2px solid #B67A82}
+.Parrafo{ font-size: large;
+			letter-spacing: 3px; }
+.seccion{
+	border: 1px solid green;
+	margin-top: 10px;
+	background-color: white;
+	margin-left: 25px;
+	border-top-left-radius: 40px 20px;
+	border-top-right-radius: 40px 20px;
+		}
+#Menú{
+	float: left;
+	margin-left: 10%;
+}
+#Contenido{
+	margin-left: 25%;
+	margin-right: 10%;
+}
